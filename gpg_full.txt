@@ -1,5 +1,8 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
+Comment: Update notes:
+Comment: 20220624: Upload; New encryption subkey based on physical device (E32C0C1236081FBA).
+
 mDMEYPcE/hYJKwYBBAHaRw8BAQdAamylzFM+oGg+q2XKURR9JiHd4JQGn/+TOdwT
 mB8lq0a0IUNhbWJlciBIdWFuZyA8Y2FtYmVyQHBvaS5zY2llbmNlPoiWBBMWCAA+
 AhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAFiEEn4QPPaHxtMd+y2VT0MOtnPC2
